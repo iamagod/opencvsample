@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sat Feb 09 23:19:46 CET 2019
+1.base=/Users/kasper/Documents/scripts/opencvsample/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/kasper/Documents/scripts/opencvsample/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+3.set=NATIVE_RESOURCE
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=lib/armeabi-v7a/libopencv_java3.so
+count=4
+1.set=DEX
+0.path=lib/armeabi-v7a/libopencvsample.so
+3.base=/Users/kasper/Documents/scripts/opencvsample/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.set=NATIVE_RESOURCE
+0.base=/Users/kasper/Documents/scripts/opencvsample/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+2.baseType=DIRECTORY
+1.path=classes.dex
